@@ -1,36 +1,36 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
 @font-face {
   font-family: "CaustenBold";
-  src: url(/assets/fonts/Montserrat-SemiBold.ttf);
+  src: url(../fonts/Montserrat-SemiBold.ttf);
 }
 @font-face {
   font-family: "CaustenReg";
-  src: url(/assets/fonts/CaustenReg.ttf);
+  src: url(../fonts/CaustenReg.ttf);
 }
 @font-face {
   font-family: "CaustenMed";
-  src: url(/assets/fonts/CaustenMedium.ttf);
+  src: url(../fonts/CaustenMedium.ttf);
 }
 @font-face {
   font-family: "CoreSansBold";
-  src: url(/assets/fonts/CoreSansC-65Bold.ttf);
+  src: url(../fonts/CoreSansC-65Bold.ttf);
 }
 @font-face {
   font-family: "CoreSansMed";
-  src: url(/assets/fonts/CoreSansC-55Medium.ttf);
+  src: url(../fonts/CoreSansC-55Medium.ttf);
 }
 @font-face {
   font-family: "CoreSansHev";
-  src: url(/assets/fonts/CoreSansC-85Heavy.ttf);
+  src: url(../fonts/CoreSansC-85Heavy.ttf);
   font-weight: 700;
 }
 @font-face {
   font-family: "CoreSansExtraBold";
-  src: url(/assets/fonts/CoreSansC-75ExtraBold.ttf);
+  src: url(../fonts/CoreSansC-75ExtraBold.ttf);
 }
 @font-face {
   font-family: "CaustenLight";
-  src: url(/assets/fonts/CaustenLight.ttf);
+  src: url(../fonts/CaustenLight.ttf);
 }
 body {
   margin: 0;
