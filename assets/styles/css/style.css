@@ -1,32 +1,23 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
 @font-face {
   font-family: "CaustenBold";
-  /* src: url(/assets/fonts/CaustenBold.ttf); */
-  src: url("/Euphoria-HTML-and-SCSS/assets/fonts/CaustenBold.ttf");
-  font-weight: 700;
+  src: url(/assets/fonts/Montserrat-SemiBold.ttf);
 }
 @font-face {
   font-family: "CaustenReg";
-  /* src: url(./assets/fonts/CaustenReg.ttf); */
-  src: url("/Euphoria-HTML-and-SCSS/assets/fonts/CaustenReg.ttf");
-  font-weight: 400;
+  src: url(/assets/fonts/CaustenReg.ttf);
 }
 @font-face {
   font-family: "CaustenMed";
-  /* src: url(/assets/fonts/CaustenMedium.ttf); */
-  src: url("/Euphoria-HTML-and-SCSS/assets/fonts/CaustenMedium.ttf");
-  font-weight: 600;
+  src: url(/assets/fonts/CaustenMedium.ttf);
 }
 @font-face {
   font-family: "CoreSansBold";
-  /* src: url(/assets/fonts/CoreSansC-65Bold.ttf); */
-  src: url("/Euphoria-HTML-and-SCSS/assets/fonts/CoreSansC-65Bold.ttf");
-  font-weight: 700;
+  src: url(/assets/fonts/CoreSansC-65Bold.ttf);
 }
 @font-face {
   font-family: "CoreSansMed";
   src: url(/assets/fonts/CoreSansC-55Medium.ttf);
-  font-weight: 700;
 }
 @font-face {
   font-family: "CoreSansHev";
@@ -906,7 +897,7 @@ a {
   }
 }
 .saving__card-first-row .saving__card:nth-child(2) {
-  background-image: url("/assets/img/saving_bg-card2.png");
+  background-image: url(/assets/img/savingbgCard2.png);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -929,7 +920,7 @@ a {
   }
 }
 .saving__card-first-row .saving__card:nth-child(3) {
-  background-image: url("/assets/img/saving_bg-card3.png");
+  background-image: url(/assets/img/saving_bg-card3.png);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
